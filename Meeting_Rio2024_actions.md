@@ -26,3 +26,21 @@ Compilation of the initial version step3-1min for the period 1991-present on the
 
 Note:
 Structure 
+1minute step3 in Paris: 
+- Jan informs Benoit about acceptance
+- Benoit is "stamping" the data (with actual Publication Date)
+- Benoit copies stamped data to obsmag (step3 Paris)
+- Issues: steps 3 contains zipped IAF files but no Metadata
+
+New procedure:
+- Jan informs
+- IMBOT stamps data (verify!!!!!) and copies complete step2 structure to step3 and to GFZ
+- IMBOT mailer is using READNE contacts
+
+
+Testing and application:
+1.) develop IMBOT routine to obtain step2 data and stamping ( compare to manually stamped files)
+2.) develop notification routine for IMBOT to notify IMO about acceptance
+3.) develop upload routine to GFZ
+4.) Upload e-mail receiver list to GITHUB IMBOT config
+
