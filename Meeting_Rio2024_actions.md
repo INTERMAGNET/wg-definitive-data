@@ -51,5 +51,5 @@ Suggestions for next IAGA Workshop:
 
 Invite:
 - Kristina
-- Marcos
+- Marcos (accepted)
 - Matthew
