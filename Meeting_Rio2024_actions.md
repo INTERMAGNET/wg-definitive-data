@@ -39,8 +39,17 @@ New procedure:
 
 
 Testing and application:
+
 1.) develop IMBOT routine to obtain step2 data and stamping ( compare to manually stamped files)
 2.) develop notification routine for IMBOT to notify IMO about acceptance
 3.) develop upload routine to GFZ
 4.) Upload e-mail receiver list to GITHUB IMBOT config
 
+Suggestions for next IAGA Workshop:
+
+- Summer school specifically for data checking (both IMO side and IM side)
+
+Invite:
+- Kristina
+- Marcos
+- Matthew
