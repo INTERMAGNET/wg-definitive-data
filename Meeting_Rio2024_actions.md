@@ -50,6 +50,6 @@ Suggestions for next IAGA Workshop:
 - Summer school specifically for data checking (both IMO side and IM side)
 
 Invite:
-- Kristina
+- Kristina (accepted)
 - Marcos (accepted)
-- Matthew
+- Matthew (accepted)
