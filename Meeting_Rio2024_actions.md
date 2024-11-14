@@ -33,9 +33,10 @@ Structure
 - Issues: steps 3 contains zipped IAF files but no Metadata
 
 New procedure:
-- Jan informs
-- IMBOT stamps data (verify!!!!!) and copies complete step2 structure to step3 and to GFZ
+- Jan informs - in step 2, locate the specific file
+- IMBOT stamps data (verify!!!!!) and copies complete step2 structure to step3 and to GFZ (*1)
 - IMBOT mailer is using READNE contacts
+(*1) - Sometimes in step 2, there may be files that should not be copied to step 3-GFZ
 
 
 Testing and application:
