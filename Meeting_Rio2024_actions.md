@@ -13,8 +13,7 @@
 | DD.8   | BH,JRD, RL,EXCON | Official letter to IMOs (for def data acceptance). Manually by email for 2020. Later years made automatic using IMBOT. To be signed by Excon.  | 
 | DD.9   | Excon | Certificate for Data Checkers | 
 | DD.10  |       | Update Technical Manual - Data checking 1-minute | Mention IMBOT, add MagPy 
-| DD.11  |       | Update Technical Manual - Data checking 1-minute |
-| DD.12  | MG, RL, SB | Development of a new version IBFV base line format to account for manual and automatic measurements | 
+| DD.11  | MG, RL, SB | Development of a new version IBFV base line format to account for manual and automatic measurements | 
 
 
 Note:
