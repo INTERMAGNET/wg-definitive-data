@@ -36,6 +36,7 @@ New procedure:
 - Jan informs - places a specific file on step2.
 - IMBOT stamps data (verify!!!!!) and copies complete step2 structure (*1) to step3 and to GFZ
 - IMBOT mailer is using READNE contacts
+(*1) - Sometimes in step 2, there may be files that should not be copied to step 3-GFZ
 
 
 Testing and application:
