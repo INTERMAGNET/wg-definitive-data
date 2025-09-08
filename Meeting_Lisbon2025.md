@@ -37,6 +37,13 @@
 | Number | Responsible | Description | Status 
 | ------ | ----------- | ----------- | -----------
 |        |             |             | Green completed, Orange ongoing; Red not started
-| DD.1   | JRD          | Sending CALL FOR ONE-MINUTE DEFINITIVE DATA FOR 2024 by end of January 2025 | 
-| DD.2   | RL   | Sending CALL FOR ONE-SECOND DEFINITIVE DATA FOR 2023 by the end of February 2025 | 
-| DD.3   |  |  | 
+| DD.1   | JRD          | Sending CALL FOR ONE-MINUTE DEFINITIVE DATA FOR 2025 by end of January 2026 | 
+| DD.2   | RL   | Sending CALL FOR ONE-SECOND DEFINITIVE DATA FOR 2024 and 2025 by the end of February 2026 |  
+| DD.3   | MVS, JRD | communication of incomplete/wrong jump signs in yearmean and request for updates in 2026 submission | 
+| DD.4   | RL   | reminder for review if not completed within 6 weeks after data submission, message to chair -include into IMBOT | 
+| DD.5   | DC   |  DKA format description for Technical Manual - check Jankowski 1991 | 
+| DD.6   | RL   | K inidces, methods and citations | 
+| DD.7   | MG, SB, RL | Produce a template of IBFV 3.00 file | 
+| DD.8   | All  | updating the cookbook and make it ready for TM | 
+| DD.9   |  | supporting IMOs not satisfying step1 criteria? | 
+| DD.10  | MVS  | yearly data quality report | 
