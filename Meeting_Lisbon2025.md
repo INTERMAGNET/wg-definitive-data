@@ -47,5 +47,7 @@
 | DD.8   | TR, BH, all data checkers | updating/reviewing the cookbook and make it ready for TM | 
 | DD.9   | IM  | add the data checking template to the cookbook | 
 | DD.10   | RL  | include 1-sec checklist to the cookbook | 
-| DD.11   |  | supporting IMOs not satisfying step1 criteria? | 
+| DD.11   | DC,BH, MVS | organizing a data checking course at IAGA WS Kakioka | 
 | DD.12  | MVS  | yearly data quality report | 
+| DD.13  | TR  | site difference analysis | 
+| DD.14  | All, JM  | Change of DOI handling:  Create DOI as growing repositories for both 1min and 1sec definitive data. | 
