@@ -51,3 +51,4 @@
 | DD.12  | MVS  | yearly data quality report | 
 | DD.13  | TR  | site difference analysis | 
 | DD.14  | All, JM  | Change of DOI handling:  Create DOI as growing repositories for both 1min and 1sec definitive data. | 
+| DD.15  | RL  | Thank you message with option to obtain updated certificate by Excon. | 
