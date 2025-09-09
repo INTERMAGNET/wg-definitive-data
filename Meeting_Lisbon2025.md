@@ -44,7 +44,7 @@
 | DD.5   | DC   |  DKA format description for Technical Manual - check Jankowski 1991 | 
 | DD.6   | RL   | K inidces, methods and citations | 
 | DD.7   | MG, SB, RL | Produce a template of IBFV 3.00 file | 
-| DD.8   | All  | updating/reviewing the cookbook and make it ready for TM | 
+| DD.8   | TR, BH, all data checkers | updating/reviewing the cookbook and make it ready for TM | 
 | DD.9   | IM  | add the data checking template to the cookbook | 
 | DD.10   | RL  | include 1-sec checklist to the cookbook | 
 | DD.11   |  | supporting IMOs not satisfying step1 criteria? | 
