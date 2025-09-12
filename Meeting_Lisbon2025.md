@@ -40,7 +40,7 @@
 | DD.1   | JRD          | Sending CALL FOR ONE-MINUTE DEFINITIVE DATA FOR 2025 by end of January 2026 | 
 | DD.2   | RL   | Sending CALL FOR ONE-SECOND DEFINITIVE DATA FOR 2024 and 2025 by the end of February 2026 |  
 | DD.3   | MVS, JRD | communication of incomplete/wrong jump signs in yearmean and request for updates in 2026 submission | 
-| DD.4   | RL   | reminder for review if not completed within 2 months after data submission, message to chair -include into IMBOT | 
+| DD.4   | RL   | reminder for review if not completed within 2 months after data submission, message to chair -include into IMBOT |  included in IMBOT2.0.2 (2025-09-12)
 | DD.5   | DC   |  DKA format description for Technical Manual - check Jankowski 1991 | 
 | DD.6   | RL   | K inidces, methods and citations | 
 | DD.7   | MG, SB, RL | Produce a template of IBFV 3.00 file | 
@@ -51,4 +51,4 @@
 | DD.12  | MVS  | yearly data quality report | 
 | DD.13  | TR  | site difference analysis | 
 | DD.14  | All, JM  | Change of DOI handling:  Create DOI as growing repositories for both 1min and 1sec definitive data. | 
-| DD.15  | RL  | Thank you message with option to obtain updated certificate by Excon. | 
+| DD.15  | RL  | Thank you message with option to obtain updated certificate by Excon. | included in IMBOT2.0.2 (2025-09-12)
