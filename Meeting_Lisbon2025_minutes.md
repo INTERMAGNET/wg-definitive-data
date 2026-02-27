@@ -1,8 +1,11 @@
-### Summary of INTERMAGNET Definitive Data (DD) Subcommittee Meeting Agenda and Reports – Lisbon 2025
+## Summary of INTERMAGNET Definitive Data (DD) Subcommittee Meeting Agenda and Reports – Lisbon 2025
 
-This document provides a comprehensive overview of the INTERMAGNET DD Subcommittee meeting scheduled for Lisbon 2025. The content covers agenda items, action item follow-ups from 2024, detailed reports on 1-minute and 1-second definitive geomagnetic data processing, data checking protocols, challenges faced by USGS in data production, technical discussions on data formats, and administrative matters related to notifications and certification.
+This document provides a comprehensive overview of the INTERMAGNET DD Subcommittee meeting scheduled for Lisbon 2025. The content covers agenda items, action item follow-ups from 2024, detailed reports on 1-minute and 1-second definitive geomagnetic data processing, data checking protocols, challenges faced by changes in the data checking team, technical discussions on data formats, and administrative matters related to notifications and certification.
 
 ---
+
+### In-situ and online participants
+Andrew Lewis (AL), Benoit Heumez (BH), Charles Blais (CB), David Calp (DC), Igor Mandic (IM), Jan Reda (JRD), Jürgen Matzka (JM), Marcos Vinicius da Silva (MVS), Matthew Gard (MG), Roman Leonhardt (RL), Simon Flower (SMF), Shun Imajo (SI), Stephan Bracke (SB), Tero Raita (TR), Virginie Maury (VM)
 
 ### Key Highlights and Meeting Agenda
 
@@ -21,11 +24,20 @@ This document provides a comprehensive overview of the INTERMAGNET DD Subcommitt
 
 ### 2024 Action Items Review
 
-| Action Item Code | Description                                       | Status/Notes                                |
-|------------------|-------------------------------------------------|---------------------------------------------|
-| DD.02            | Call for 1-second data submissions for 2023     | To be sent out by end of February 2025      |
-| DD.02 (future)   | Call for 1-second data submissions for 2025     | Planned for sending out in 2026              |
-| DD.05            | Investigation of jumps in yearmeans              | Report by Marcos Vinicius da Silva           |
+| Number | Responsible | Description | Status 
+| ------ | ----------- | ----------- | -----------
+|        |             |             | Green completed, Orange ongoing; Red not started
+| DD.1   | JRD          | Sending CALL FOR ONE-MINUTE DEFINITIVE DATA FOR 2024 by end of January 2025 | DONE -sent Feb 5, 2025
+| DD.2   | RL   | Sending CALL FOR ONE-SECOND DEFINITIVE DATA FOR 2023 by the end of February 2025 | DONE -sent Feb 28, 2025
+| DD.3   | All, JM | Change of DOI handling:  Create DOI as growing repositories for both 1min and 1sec definitive data. To be hosted at GFZ. Automatic transfer and publication time stamping. To be started as soon as possible including 2021 onwards | ongoing
+| DD.4   | RL, SF, SB |  Migration of 1-min definitive data from IAF to CDF formats. This is a long ongoing process to start after softwares to deal with CDF are available (2026?) | ongoing
+| DD.5   | MS, DataCheckers | Incorrect jump signs in year mean files. Not to be corrected by IM. Asking IMOs to correct in latest file and add note in comments. | DONE communicated?
+| DD.6   | DataCheckers, BH, TR | Clarify permission for data checkers to modify files, to be added into the data checkers guidelines. No changes to be made on existing files in step1. Give 4 weeks to imos to make change before it is made automatic | DONE. The document can be added to the Manual appendices and/or sent to the Definitive data checkers along with the call for data.
+| DD.7   | TR, BH | Frequency of absolute S measures. Data checkers to add this parameter on check list. And communicate with IMOs to either report missing values or start performing regular measures. Only for recent data. | ongoing. TR volunteered to make a script to detect gaps or lack of pilar measure
+| DD.8   | BH,JRD, RL,EXCON | Official letter to IMOs (for def data acceptance). Manually by email for 2020. Later years made automatic using IMBOT. To be signed by Excon.  | Ongoing. A template exists, an Automatic routine is being prepared
+| DD.9   | Excon | Certificate for Data Checkers | Ongoing
+| DD.10  |       | Update Technical Manual - Data checking 1-minute | Ongoing. Requires the publication of the IMBOT article and 1‑min cookbook (both items will be presented)
+| DD.11  | MG, RL, SB | Development of a new version IBFV base line format to account for manual and automatic measurements | Ongoing. Started already, suggestions on IBFV will be presented and discussed
 
 ---
 
@@ -123,8 +135,28 @@ This document provides a comprehensive overview of the INTERMAGNET DD Subcommitt
 
 - Compilation and assignment of new and ongoing action items to ensure progress on data collection, processing, format updates, and quality assurance.
 - Focus on addressing technology upgrades, data flow improvements, and procedural clarifications.
-- Continued monitoring of USGS involvement and impact on data products.
 - Enhancement of documentation and communication with stakeholders.
+
+
+| Number | Responsible | Description | Status 
+| ------ | ----------- | ----------- | -----------
+|        |             |             | Green completed, Orange ongoing; Red not started
+| DD.1   | JRD          | Sending CALL FOR ONE-MINUTE DEFINITIVE DATA FOR 2025 by end of January 2026 | 
+| DD.2   | RL   | Sending CALL FOR ONE-SECOND DEFINITIVE DATA FOR 2024 and 2025 by the end of February 2026 |  
+| DD.3   | MVS, JRD | communication of incomplete/wrong jump signs in yearmean and request for updates in 2026 submission | 
+| DD.4   | RL   | reminder for review if not completed within 2 months after data submission, message to chair -include into IMBOT |  included in IMBOT2.0.2 (2025-09-12)
+| DD.5   | DC   |  DKA format description for Technical Manual - check Jankowski 1991 | 
+| DD.6   | RL   | K inidces, methods and citations | 
+| DD.7   | MG, SB, RL | Produce a template of IBFV 3.00 file | 
+| DD.8   | TR, BH, all data checkers | updating/reviewing the cookbook and make it ready for TM | 
+| DD.9   | IM  | add the data checking template to the cookbook | 
+| DD.10   | RL  | include 1-sec checklist to the cookbook | 
+| DD.11   | DC,BH, MVS | organizing a data checking course at IAGA WS Kakioka | 
+| DD.12  | MVS  | yearly data quality report | 
+| DD.13  | TR  | site difference analysis | 
+| DD.14  | All, JM  | Change of DOI handling:  Create DOI as growing repositories for both 1min and 1sec definitive data. | 
+| DD.15  | RL  | Thank you message with option to obtain updated certificate by Excon. | included in IMBOT2.0.2 (2025-09-12)
+
 
 ---
 
@@ -155,8 +187,3 @@ This document provides a comprehensive overview of the INTERMAGNET DD Subcommitt
 
 The INTERMAGNET DD Subcommittee meeting for Lisbon 2025 is focused on advancing the collection, quality assurance, and publication of definitive geomagnetic data, especially for 1-minute and 1-second resolutions. Key challenges include mitigating the impact of USGS's halted data production, updating legacy data formats to accommodate modern automatic measurements, and ensuring robust data checking protocols supported by updated software tools. The committee emphasizes clear communication, enhanced data security, and procedural transparency through official notifications and certifications.
 
-The meeting agenda and supporting reports reflect a commitment to continuous improvement in geomagnetic data management, balancing legacy systems with evolving technological capabilities.
-
----
-
-**All information is strictly based on the provided source content.**
