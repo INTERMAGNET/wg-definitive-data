@@ -162,8 +162,7 @@ Andrew Lewis (AL), Benoit Heumez (BH), Charles Blais (CB), David Calp (DC), Igor
 
 ### Any Other Business (AOB)
 
-- Open floor for additional topics not covered in the agenda.
-- Opportunity for members to raise miscellaneous issues or proposals.
+None
 
 ---
 
