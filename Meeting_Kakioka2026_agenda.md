@@ -3,20 +3,20 @@
 1. Welcome and Approval of the Agenda
 2. Review of Progress on Action Items from the Lisbon Meeting 2025 and Online Meeting 2026
 3. Status Reports: Definitive Data Collection & Publication
-3.1. 1-Minute Definitive Data Progress Report
-3.2. 1-Second Definitive Data Progress Report
-3.3. updates on data checking team, data checking procedures and automatic notifications
+    1. 1-Minute Definitive Data Progress Report
+    2. 1-Second Definitive Data Progress Report
+    3. updates on data checking team, data checking procedures and automatic notifications
 4. Data Repository, DOI & Publication System Strategy
-4.1. Status of single DOI and quick publication proposal
-4.2. Suggestion for one-second implementation considering current Paris GIN maintenence halt
+    1. Status of single DOI and quick publication proposal
+    2. Suggestion for one-second implementation considering current Paris GIN maintenence halt
 5. Data Formats, Standards & Technical Manual Updates
-5.1. Migration of 1-Minute Definitive Data from IAF to
+    1. Migration of 1-Minute Definitive Data from IAF to
 ImagCDF
-5.2. Implementation of IBFV 3.00 Format
+    2. Implementation of IBFV 3.00 Format
 6. Data Checking Procedures, Guidelines & Quality Assurance
-6.1. Review of Data Checking Instructions and the Data Checkers’
+    1. Review of Data Checking Instructions and the Data Checkers’
 Cookbook
-6.2. Dissemination of the Guidance Document "How to Check 1-Min Data"
+    2. Dissemination of the Guidance Document "How to Check 1-Min Data"
 7. Summary, Action Items, 
 8. Any Other Business (AOB)
 
