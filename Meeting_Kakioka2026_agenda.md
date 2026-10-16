@@ -32,7 +32,7 @@ Cookbook
 | **DD.3** | Communicate incomplete/wrong jump signs in near-mean data | MVS, JR | In progress; |
 | **DD.4** | Automatic reminder for review within two months | RL | Active; |
 | **DD.5** | Description of DKA format in technical manual | DC | Underway; focusing on current DKA version |
-| **DD.6** | Review of K-indices and citations in observatory readmes | RL | Started; ongoing |
+| **DD.6** | Review of K-indices and citations in observatory readme files | RL | Started; ongoing |
 | **DD.7** | Template for new baseline format supporting AutoDiff | MG | Prepared template; testing pending |
 | **DD.8** | Update and review the data checking cookbook | Now all | Cookbook online; feedback ongoing |
 | **DD.9** | Add data checking template and checklist to cookbook | IM | Completed and uploaded |
