@@ -1,5 +1,6 @@
-### Summary of INTERMAGNET Definitive Data Meeting (March 4, 2026)
- This summary presents the key points, discussions, and action items from
+# Summary of INTERMAGNET Definitive Data Meeting (March 4, 2026)
+
+This summary presents the key points, discussions, and action items from
 the INTERMAGNET Definitive Data meeting held on March 4, 2026. The
 meeting covered updates on data checking processes, data publication,
 workflow automation, data format issues, and upcoming workshops. The
@@ -9,7 +10,9 @@ timeline of action items.
 Tero Raita, Manjula Lingala, David Calp, Emmanuel Nahayo, Jan Wittke,
 Orsi Baillie, Marcos Vinicius da Silva, Kusumita Arora, Seiki Asari,
 Benoit Heumez
- ### Agenda Overview
+
+### Agenda Overview
+
  1. Approval of the agenda
  2. Review and update of DD action items from Lisbon 2025
  3. Status updates on 1-minute and 1-second definitive data,
@@ -23,49 +26,30 @@ Identifier) and quick publication proposal
 scalar S (J. Reda)
  6. Summary and update of action items
  7. Any other business
- ### 2025 Action Items from Lisbon and current status summary:
-  ------ ------------
-------------------------------------------------------------------------------------------------------------------
-------------------------------
-DD.1 JRD Sending CALL FOR ONE-MINUTE DEFINITIVE DATA FOR 2025 byend of January 2026 DONE
-DD.2 RL Sending CALL FOR ONE-SECOND DEFINITIVE DATA FOR 2024 and
-2025 by the end of February 2026 To be send out in march 2026
-DD.3 MVS, JRD communication of incomplete/wrong jump signs in yearmean
-and request for updates in 2026 submission ONGOING
-DD.4 RL reminder for review if not completed within 2 months after data
-submission, message to chair -include into IMBOT DONE
-DD.5 DC DKA format description for Technical Manual - check Jankowski
-1991 ONGOING
-DD.6 RL K inidces, methods and citationsONGOING
-DD.7 MG, SB, RL Produce a template of IBFV 3.00 fileONGOING
------- ------------
-------------------------------------------------------------------------------------------------------------------
-------------------------------
-  ------- ---------------------------
-----------------------------------------------------------------------------------------------------
-----------------------------------------------
-DD.8 TR, BH, all data checkers updating/reviewing the cookbook and make it
-ready for TM DONE
-DD.9 IM add the data checking template to the cookbookDONE
-DD.10 RL include 1-sec checklist to the cookbookONGOING
-DD.11 DC,BH, MVS organizing a data checking course at IAGA WS
-Kakioka Time slot parallel to poster session, hybrid
-DD.12 MVS yearly data quality reportTo be shown in Japan
-DD.13 TR site difference analysisONGOING
-DD.14 All, JM Change of DOI handling: Create DOI as growing
-repositories for both 1min and 1sec definitive data. ONGOING
-DD.15 RL Thank you message with option to obtain updated
-certificate by Excon. DONE
-------- ---------------------------
-----------------------------------------------------------------------------------------------------
-----------------------------------------------
- ### Key Topics and Discussions
- #### 1. **Meeting Minutes Automation and Moderation**
 
+ ### 2025 Action Items from Lisbon and current status summary:
 
+| ActionItem | Responsible | Task / Description | Status / Note |
+| :--- | :--- | :--- | :--- |
+| **DD.1** | JRD | Sending CALL FOR ONE-MINUTE DEFINITIVE DATA FOR 2025 by end of January 2026 | DONE |
+| **DD.2** | RL | Sending CALL FOR ONE-SECOND DEFINITIVE DATA FOR 2024 and 2025 by the end of February 2026 | To be send out in march 2026 |
+| **DD.3** | MVS, JRD | Communication of incomplete/wrong jump signs in yearmean and request for updates in 2026 submission | ONGOING |
+| **DD.4** | RL | Reminder for review if not completed within 2 months after data submission, message to chair -include into IMBOT | DONE |
+| **DD.5** | DC | DKA format description for Technical Manual - check Jankowski 1991 | ONGOING |
+| **DD.6** | RL | K indices, methods and citations | ONGOING |
+| **DD.7** | MG, SB, RL | Produce a template of IBFV 3.00 file | ONGOING |
+| **DD.8** | TR, BH, all data checkers | Updating/reviewing the cookbook and make it ready for TM | DONE |
+| **DD.9** | IM | Add the data checking template to the cookbook | DONE |
+| **DD.10** | RL | Include 1-sec checklist to the cookbook | ONGOING |
+| **DD.11** | DC, BH, MVS | Organizing a data checking course at IAGA WS Kakioka | Time slot parallel to poster session, hybrid |
+| **DD.12** | MVS | Yearly data quality report | To be shown in Japan |
+| **DD.13** | TR | Site difference analysis | ONGOING |
+| **DD.14** | All, JM | Change of DOI handling: Create DOI as growing repositories for both 1min and 1sec definitive data. | ONGOING |
+| **DD.15** | RL | Thank you message with option to obtain updated certificate by Excon. | DONE |
 
+ ### Key Topics and Discussions
 
-
+ #### 1. **Meeting Minutes Automation and Moderation**
 
 - The meeting minutes are generated automatically using an artificial
 intelligence tool.
@@ -192,46 +176,33 @@ and proper distribution.
 Teams were noted; possible switch back to Zoom for future meetings.
 - All meeting slides and materials will be distributed to participants
 post-meeting.
- ### Timeline Table: Key Action Items and Status
-  ------- -------------------------------------------------------------- -------------
---------------------------------------------------------
-1 Call for one-minute definitive data JR Recently sent out
-2 Call for one-second definitive data RL To be sent within
-two weeks
-3 Communicate incomplete/wrong jump signs in near-mean data MVS, JR 
-In progress;
-4 Automatic reminder for review within two months RL Active;
-5 Description of DKA format in technical manual DC Underway;
-focusing on current DKA version
-6 Review of K-indices and citations in observatory readmes RLStarted; ongoing
-7 Template for new baseline format supporting AutoDiff MG 
-Prepared template; testing pending
-8 Update and review the data checking cookbook Now all 
-Cookbook online; feedback ongoing
-9 Add data checking template and checklist to cookbook IM 
-Completed and uploaded
-10 Complete one-second data checking checklist RL Still
-missing; ongoing work; online discussion
-11 Organize data checking course at IAGA workshop DC, BH, MVS 
-Planning ongoing; hybrid/online options considered
-13 Site difference analysis TR Analysis done; summary
-pending
-14 Change DOI handling and create growing repository RL, JR, JM 
-Started; ongoing discussion
-15 Send thank you message upon data reaching publication step RL 
-Implemented; messages sent after 2025 data publication
-New 1 IM Ledger Bot demo at Kakioka workshop DC Agreed;
-demo planned
-New 2 Automate step 2 to step 3 data stamping RL Assigned;
-work in progress
-New 3 Update technical manual on calculated components and G value JR 
-Assigned; discussion ongoing
-New 4 Resend call for data emails JR, RL Assigned; issue to
-be identified and to be resolved
-------- -------------------------------------------------------------- -------------
---------------------------------------------------------
- ### 
- ### Key Insights and Conclusions
+
+
+### Timeline Table: Key Action Items and Status
+
+| Action Item | Description | Assigned To | Status/Notes |
+| :--- | :--- | :--- | :--- |
+| **1** | Call for one-minute definitive data | JR | Recently sent out |
+| **2** | Call for one-second definitive data | RL | To be sent within two weeks |
+| **3** | Communicate incomplete/wrong jump signs in near-mean data | MVS, JR | In progress; |
+| **4** | Automatic reminder for review within two months | RL | Active; |
+| **5** | Description of DKA format in technical manual | DC | Underway; focusing on current DKA version |
+| **6** | Review of K-indices and citations in observatory readmes | RL | Started; ongoing |
+| **7** | Template for new baseline format supporting AutoDiff | MG | Prepared template; testing pending |
+| **8** | Update and review the data checking cookbook | Now all | Cookbook online; feedback ongoing |
+| **9** | Add data checking template and checklist to cookbook | IM | Completed and uploaded |
+| **10** | Complete one-second data checking checklist | RL | Still missing; ongoing work; online discussion |
+| **11** | Organize data checking course at IAGA workshop | DC, BH, MVS | Planning ongoing; hybrid/online options considered |
+| **13** | Site difference analysis | TR | Analysis done; summary pending |
+| **14** | Change DOI handling and create growing repository | RL, JR, JM | Started; ongoing discussion |
+| **15** | Send thank you message upon data reaching publication step | RL | Implemented; messages sent after 2025 data publication |
+| **New 1** | IM Ledger Bot demo at Kakioka workshop | DC | Agreed; demo planned |
+| **New 2** | Automate step 2 to step 3 data stamping | RL | Assigned; work in progress |
+| **New 3** | Update technical manual on calculated components and G value | JR | Assigned; discussion ongoing |
+| **New 4** | Resend call for data emails | JR, RL | Assigned; issue to be identified and to be resolved |
+
+### Key Insights and Conclusions
+  
  - **Data quality and review** remain central to INTERMAGNET's mission,
 with ongoing efforts to improve automation without compromising
 manual oversight.
