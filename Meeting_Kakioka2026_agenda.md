@@ -14,11 +14,12 @@
 ImagCDF
     2. Implementation of IBFV 3.00 Format
 6. Data Checking Procedures, Guidelines & Quality Assurance
-    1. Review of Data Checking Instructions and the Data Checkers’
+    1. Better involvment of data checkers 
+    2. Review of Data Checking Instructions and the Data Checkers’
 Cookbook
-    2. Dissemination of the Guidance Document "How to Check 1-Min Data"
-7. Summary, Action Items, 
-8. Any Other Business (AOB)
+    3. Dissemination of the Guidance Document "How to Check 1-Min Data"
+8. Summary, Action Items, 
+9. Any Other Business (AOB)
 
 
 ### regarding 2. previous action items
@@ -77,4 +78,6 @@ Your personal data will be handled in line with UK data protection legislation a
 Background: suggested restructure of GIN for one second publication (Lisbon2025) cannot be implemented due to personnal issues
 This workaround would do the job, still preserves originally submitted data in step1 and does not require additional storage volumn for step3
 
+### regarding 6.1 - data checker
 
+i.e. call for a volunteer to lead the data checker team, acting as a liaison between the IMO and DD subcommittees and the data checkers, and helping to maintain the GitHub page related to data checking. Provide and conduct a data checking course
