@@ -8,7 +8,7 @@
     3. updates on data checking team, data checking procedures and automatic notifications
 4. Data Repository, DOI & Publication System Strategy
     1. Status of single DOI and quick publication proposal
-    2. Suggestion for one-second implementation considering current Paris GIN maintenence halt
+    2. Suggestion for one-second implementation considering current Paris GIN maintenance halt
 5. Data Formats, Standards & Technical Manual Updates
     1. Migration of 1-Minute Definitive Data from IAF to
 ImagCDF
