@@ -182,24 +182,24 @@ post-meeting.
 
 | Action Item | Description | Assigned To | Status/Notes |
 | :--- | :--- | :--- | :--- |
-| **1** | Call for one-minute definitive data | JR | Recently sent out |
-| **2** | Call for one-second definitive data | RL | To be sent within two weeks |
-| **3** | Communicate incomplete/wrong jump signs in near-mean data | MVS, JR | In progress; |
-| **4** | Automatic reminder for review within two months | RL | Active; |
-| **5** | Description of DKA format in technical manual | DC | Underway; focusing on current DKA version |
-| **6** | Review of K-indices and citations in observatory readmes | RL | Started; ongoing |
-| **7** | Template for new baseline format supporting AutoDiff | MG | Prepared template; testing pending |
-| **8** | Update and review the data checking cookbook | Now all | Cookbook online; feedback ongoing |
-| **9** | Add data checking template and checklist to cookbook | IM | Completed and uploaded |
-| **10** | Complete one-second data checking checklist | RL | Still missing; ongoing work; online discussion |
-| **11** | Organize data checking course at IAGA workshop | DC, BH, MVS | Planning ongoing; hybrid/online options considered |
-| **13** | Site difference analysis | TR | Analysis done; summary pending |
-| **14** | Change DOI handling and create growing repository | RL, JR, JM | Started; ongoing discussion |
-| **15** | Send thank you message upon data reaching publication step | RL | Implemented; messages sent after 2025 data publication |
-| **New 1** | IM Ledger Bot demo at Kakioka workshop | DC | Agreed; demo planned |
-| **New 2** | Automate step 2 to step 3 data stamping | RL | Assigned; work in progress |
-| **New 3** | Update technical manual on calculated components and G value | JR | Assigned; discussion ongoing |
-| **New 4** | Resend call for data emails | JR, RL | Assigned; issue to be identified and to be resolved |
+| **DD.1** | Call for one-minute definitive data | JR | Recently sent out |
+| **DD.2** | Call for one-second definitive data | RL | To be sent within two weeks |
+| **DD.3** | Communicate incomplete/wrong jump signs in near-mean data | MVS, JR | In progress; |
+| **DD.4** | Automatic reminder for review within two months | RL | Active; |
+| **DD.5** | Description of DKA format in technical manual | DC | Underway; focusing on current DKA version |
+| **DD.6** | Review of K-indices and citations in observatory readmes | RL | Started; ongoing |
+| **DD.7** | Template for new baseline format supporting AutoDiff | MG | Prepared template; testing pending |
+| **DD.8** | Update and review the data checking cookbook | Now all | Cookbook online; feedback ongoing |
+| **DD.9** | Add data checking template and checklist to cookbook | IM | Completed and uploaded |
+| **DD.10** | Complete one-second data checking checklist | RL | Still missing; ongoing work; online discussion |
+| **DD.11** | Organize data checking course at IAGA workshop | DC, BH, MVS | Planning ongoing; hybrid/online options considered |
+| **DD.13** | Site difference analysis | TR | Analysis done; summary pending |
+| **DD.14** | Change DOI handling and create growing repository | RL, JR, JM | Started; ongoing discussion |
+| **DD.15** | Send thank you message upon data reaching publication step | RL | Implemented; messages sent after 2025 data publication |
+| **DD.New 1** | IM Ledger Bot demo at Kakioka workshop | DC | Agreed; demo planned |
+| **DD.New 2** | Automate step 2 to step 3 data stamping | RL | Assigned; work in progress |
+| **DD.New 3** | Update technical manual on calculated components and G value | JR | Assigned; discussion ongoing |
+| **DD.New 4** | Resend call for data emails | JR, RL | Assigned; issue to be identified and to be resolved |
 
 ### Key Insights and Conclusions
   
