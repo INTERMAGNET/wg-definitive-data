@@ -14,7 +14,7 @@
 ImagCDF
     2. Implementation of IBFV 3.00 Format
 6. Data Checking Procedures, Guidelines & Quality Assurance
-    1. Better involvment of data checkers 
+    1. Better involvement of data checkers 
     2. Review of Data Checking Instructions and the Data Checkers’
 Cookbook
     3. Dissemination of the Guidance Document "How to Check 1-Min Data"
