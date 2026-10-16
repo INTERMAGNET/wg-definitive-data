@@ -29,7 +29,7 @@ Cookbook
 | :--- | :--- | :--- | :--- |
 | **DD.1** | Call for one-minute definitive data | JR | Sent out (e-mail issues) |
 | **DD.2** | Call for one-second definitive data | RL | Sent out (e-mail issues) |
-| **DD.3** | Communicate incomplete/wrong jump signs in near-mean data | MVS, JR | In progress; |
+| **DD.3** | Communicate incomplete/wrong jump signs in yearmean data | MVS, JR | In progress; |
 | **DD.4** | Automatic reminder for review within two months | RL | Active; |
 | **DD.5** | Description of DKA format in technical manual | DC | Underway; focusing on current DKA version |
 | **DD.6** | Review of K-indices and citations in observatory readmes | RL | Started; ongoing |
