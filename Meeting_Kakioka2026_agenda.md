@@ -18,8 +18,9 @@ ImagCDF
     2. Review of Data Checking Instructions and the Data Checkers’
 Cookbook
     3. Dissemination of the Guidance Document "How to Check 1-Min Data"
-8. Summary, Action Items, 
-9. Any Other Business (AOB)
+    4. Liaison between IMO and DD subcommittees
+7. Summary, Action Items
+8. Any Other Business (AOB)
 
 
 ### regarding 2. previous action items
