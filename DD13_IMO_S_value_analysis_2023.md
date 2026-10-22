@@ -46,7 +46,7 @@ Statistics of the reported values are in ASCII table:
 Experienced staff capable to do check are not visiting site often the IMO
 4. The reporting of site difference is not adopted to the definitive data process.
 
-### Conclusion: task to datacheckers
+### Conclusion: task to data checkers
 
 1. Take a look of the reported site difference values: are they real observations or fixed values? If not reported, are they still observed and used for baseline calculation, not just not reported,
 2. Communicate with IMO about the lack of site difference observations in BLV files and importance of site difference checks, specially in case of challenging data set, These observations might be only way to find contamination at absolute house environment
