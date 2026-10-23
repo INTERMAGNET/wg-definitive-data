@@ -1,5 +1,8 @@
 # DD.13 (Kyoto) Report of the reported S value analysis of the definitive data for 2023 (94 IMOs)
 
+Presentation slides for Kyoto Meeting: 
+[DD13_Kyoto_IMO_reported_S_value_2023_analysis_v2.pdf](https://github.com/user-attachments/files/33851473/DD13_Kyoto_IMO_reported_S_value_2023_analysis_v2.pdf)
+
 ### Motivation
 
 During past year data-checking process it has recognised that site difference reporting activity and practices varies lot in BLV file:
@@ -34,6 +37,9 @@ Amount of the different reported scalar values were sorted out for each IMO:
 4. 40% of IMOs reported site difference less than once per month in 2023
 
 2024 submission did not have improvement for those IMOs, who not report values, some IMOs added checks in 2024.
+
+<img width="2530" height="1265" alt="IMO_S_values_2023_stddev" src="https://github.com/user-attachments/assets/d47f0a1b-88bb-4de2-aee9-8d55f5f664a5" />
+
 
 Statistics of the reported values are in ASCII table: 
 [IMO_S_value_Stats_2023.txt](https://github.com/user-attachments/files/33801027/IMO_S_value_Stats_2023.txt)
