@@ -40,7 +40,7 @@ Cookbook
 | **DD.10** | Complete one-second data checking checklist | RL | Still missing; ongoing work; online discussion |
 | **DD.11** | Organize data checking course at IAGA workshop | DC, BH, MVS | Planning ongoing; hybrid/online options considered |
 | **DD.12** | Yearly data quality report | MVS | Reports and plots prepared |
-| **DD.13** | Site difference analysis | TR | Analysis done; summary pending |
+| **DD.13** | Site difference analysis | TR | Analysis done; summary report available |
 | **DD.14** | Change DOI handling and create growing repository | RL, JR, JM | Started; ongoing discussion |
 | **DD.15** | Send thank you message upon data reaching publication step | RL | Implemented; messages sent after 2025 data publication |
 | **DD.New 1** | IM Ledger Bot demo at Kakioka workshop | DC | Agreed; demo planned |
